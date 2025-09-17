@@ -1,4 +1,4 @@
-Here are the prompts I used for GenAI when developing this project. I've printed them here in chronological order:
+Here are the prompts we used for GenAI when developing this project. I've printed them here in chronological order:
 
 "I'm looking to create a program in python that asks users for their input on what field of study, and a price cap (per year) using beautifulsoup or selenium to provide a top 10 list of universities for those parameters
 
